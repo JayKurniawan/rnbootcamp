@@ -1,0 +1,1 @@
+export const TopHeadlines = '/top-headlines?country=id&'

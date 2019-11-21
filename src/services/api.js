@@ -6,8 +6,7 @@ export default {
         return fetch(apiUrl + Path + token, {
             method: 'GET',
             headers: {
-                Accept:
-                    'application/json'
+                Accept:'application/json'
             }
         }).then((response) => {
             return response.json();

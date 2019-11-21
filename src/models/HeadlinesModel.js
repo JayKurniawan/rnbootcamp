@@ -1,5 +1,5 @@
-import httpServices from '../services/api';
-import * as Path from '../config/api_path';
+import httpServices from '../services/API';
+import * as Path from '../config/APIPath';
 
 export default{
     TopHeadlines(callback){
